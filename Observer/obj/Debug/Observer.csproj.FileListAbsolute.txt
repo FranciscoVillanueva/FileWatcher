@@ -1,0 +1,15 @@
+C:\Users\Curso\source\repos\Observer\Observer\bin\Debug\Observer.exe.config
+C:\Users\Curso\source\repos\Observer\Observer\bin\Debug\Observer.exe
+C:\Users\Curso\source\repos\Observer\Observer\bin\Debug\Observer.pdb
+C:\Users\Curso\source\repos\Observer\Observer\bin\Debug\EntityFramework.dll
+C:\Users\Curso\source\repos\Observer\Observer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Curso\source\repos\Observer\Observer\bin\Debug\EntityFramework.xml
+C:\Users\Curso\source\repos\Observer\Observer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Curso\source\repos\Observer\Observer\obj\Debug\Observer.csprojAssemblyReference.cache
+C:\Users\Curso\source\repos\Observer\Observer\obj\Debug\Observer.Form1.resources
+C:\Users\Curso\source\repos\Observer\Observer\obj\Debug\Observer.Properties.Resources.resources
+C:\Users\Curso\source\repos\Observer\Observer\obj\Debug\Observer.csproj.GenerateResource.cache
+C:\Users\Curso\source\repos\Observer\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+C:\Users\Curso\source\repos\Observer\Observer\obj\Debug\Observer.csproj.CopyComplete
+C:\Users\Curso\source\repos\Observer\Observer\obj\Debug\Observer.exe
+C:\Users\Curso\source\repos\Observer\Observer\obj\Debug\Observer.pdb
